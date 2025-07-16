@@ -4,15 +4,15 @@
 
 # Monomon
 
-MurphLeague Tourney #4 is FRLG NATDEX Monomon
+[MurphLeague](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/2.Tournaments/1.MurphLeague-2025/README.md) Tourney #4 is FRLG NATDEX Monomon
 
 NATDEX Monomon adopts all the great features of cyansixfour's NATDEX IronMON with Monomon settings and rules. 
 
 # Tourney Details
 
-Dates: July 31st 11:59 PM EST - August 17th 11:59 PM EST.
+T4 is hosted by [BennyTots](https://www.twitch.tv/bennytots). Dates: July 31st 11:59 PM EST - August 17th 11:59 PM EST.
 
-> You must be in the MurphVerse discord and all seeds must be live for the entire run and have a VOD available.
+> You must be in the [MurphVerse discord](https://discord.gg/fNX4geCU) and all seeds must be live for the entire run and have a VOD available.
 
 Seed limit: 150. Cumulative score will be your 3 highest scoring runs combined.
 
@@ -69,7 +69,7 @@ Your cumulative score is your 3 best runs combined. All points are worth 1 point
 
 |Sevii Island Champion's Quest|
 | :-----------------------: |
-|If you're so fortunate as conquer NATDEX Monomon, you may take on the post game quest in the Sevii Islands (NOTE: You need the NATDEX in order to access this, so just ensure you have it at the start of the game). Starting with the Rocket Grunts on 1 Island, you will treat the entire rest of the game as a dungeon. You must sell all TMs beforhad and may only teach TMs/Move Tutors that were not available prior to the post game. You will ned to MANUALLY track how many trainers you defeat; the competitor who defeats the most trainers will earn 3 bonus points|
+|If you're so fortunate as to conquer NATDEX Monomon, you may take on the post game quest on the Sevii Islands (NOTE: You need the NATDEX in order to access this, so just ensure you have it at the start of the game). Starting with the Rocket Grunts on 1 Island, you will treat the entire rest of the game as a dungeon (no Pokecenters allowed). You must sell all TMs beforehand and may only teach TMs/Move Tutors that were not available prior to the post game. You will need to MANUALLY track how many trainers you defeat; the competitor who defeats the most trainers will earn 3 bonus points|
 
 ## Awards
 
