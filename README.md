@@ -73,4 +73,4 @@ Your cumulative score is your 3 best runs combined. All points are worth 1 point
 
 ## Awards
 
-Awards will be given to 1st, 2nd, and 3rd place finishers from the awards pool: 50% of entry fees donated to the host BennyTots to be distributed as such: 50% to 1st place, 30% to second place, and 20% to 3rd place. Additionally, any donations from the "Pledge Page" in Murph's discord (must pay entry fee to be eligible).
+Gamers will earn points towards MurphLeague according to their respective placement. Monetary awards will be given to 1st, 2nd, and 3rd place finishers from the awards pool: 50% of entry fees donated to the host BennyTots to be distributed as such: 50% to 1st place, 30% to second place, and 20% to 3rd place. Additionally, any donations from the "Pledge Page" in Murph's discord (must pay entry fee to be eligible).
