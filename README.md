@@ -1,24 +1,22 @@
 # T4-Firered-NATDEX-Monomon
 
-### [Murphmon](#Murphmon) | [Tourney Details](#Tourney) | [Tourney Points](#Point-Breakdown) | [Tourney Awards](#Awards) | [LeaderBoard](https://github.com/TakeJoshyy/TheMurphVerse/blob/1d4396e7092b5b1f2de452d9ac74828b560425fd/Murphmon-T1-Tourney-2025/leaderboard.md)
+### [Monomon](#Monomon) | [Tourney Details](#Tourney-Details) | [Tourney Points](#Point-Breakdown) | [Tourney Awards](#Awards) |
 
-## Tourney
+# Monomon
 
-MurphLeague Tourney #1 is FRLG Murphmon
+MurphLeague Tourney #4 is FRLG NATDEX Monomon
 
-Murphmon is a Super Kaizo IronMON inspired challenge that remains officially unbeaten.
+NATDEX Monomon adopts all the great features of cyansixfour's NATDEX IronMON with Monomon settings and rules. 
 
-Dates: February 7th - 24th 12 AM PST start and end
+# Tourney Details
 
-Must be live and have VOD
+Dates: July 31st 11:59 PM EST - August 17th 11:59 PM EST.
 
-Seed limit: 200. Cumulative score will be your 3 highest scoring runs combined.
+> You must be in the MurphVerse discord and all seeds must be live for the entire run and have a VOD available.
 
-Cost of entry: Free! The MurphVerse Council have funded a base $100 reward pool.
+Seed limit: 150. Cumulative score will be your 3 highest scoring runs combined.
 
-> $100 Worth In Twitch Bits
-
-> You have to be in the discord and have stated you're in for the prize pool
+Cost of entry: Free, unless you would like to be entered into the prize pool in which case you will need to donate 500 bits to BennyTots' channel.
 
 
 ## Point Breakdown
@@ -26,20 +24,22 @@ Your cumulative score is your 3 best runs combined. All points are worth 1 point
 |           Points          | 
 | :-----------------------: | 
 | Rival #2                  |
-| Brock                     | 
-| Mt. Moon Exit             | 
+| Brock (2)                 | 
+| Mt. Moon Exit             |
+| Mt. Moon Full Clear       |
 | Bridge Rival              | 
 | Rescue Bill               |
 | Misty                     | 
 | SS Anne Rival             |
-| SS Anne Full Clear        |
+| SS Anne Full Clear (2)    |
 | Lt. Surge                 |
 | Exit Rock Tunnel          |
-| Defeat Gio in Hideout     |
+| Rock Tunnel Full Clear    |
+| Defeat Gio in Hideout (2) |
+| Full Clear Rocket Hideout |
 | Tower Rival               |
 | Rescue Fuji               |
 | Erika (2)                 |
-| Level up pivot 2 levels   |
 | Koga  (2)                 |
 | Dojo                      |
 | Silph Rival               |
@@ -56,17 +56,21 @@ Your cumulative score is your 3 best runs combined. All points are worth 1 point
 | Lance (2)                 |
 | Champ (3)                 |
 
-     36 Points available 
+  40 Points available 
 
 
 |        Bonus Points       |
 | :-----------------------: |
-| Any Pokemon that is 440 BST or lower will accumulate DOUBLE points. If the Pokemon is evolved into over 440 BST it will resume receiving standard points for the remainder of that run. All rules regarding abilities still apply i.e. (a 430 BST Pokemon may NOT have shell armor).               |
-| Jackpot Baby! If you are able to obtain a JACKPOT in 10 spins or less at the Celadon Game Corner, you will receive 1 bonus point! You may attempt 10 spins every seed you make it to the game corner. You MUST attempt the slots at 100% game speed and have a clip for proof! |
-| Its better to be lucky than good! In the route 4 Pokemon Center, you are given a "Magikarp" for 500 poke dollars. Whoever receives the Pokemon with the HIGHEST BST will receive 1 bonus point! Please confirm with a screenshot sent to the discord channel "Clips and mons". In the case of a tie, all challengers tied with the highest BST "Magikarp" will receive the bonus point. |
+| Any Pokemon that is 440 BST or lower will accumulate DOUBLE points. If the Pokemon is evolved into over 440 BST it will resume receiving standard points for the remainder of that run. All rules regarding abilities still apply i.e. (a 430 BST Pokemon may NOT have shell armor).|
+|Static-Stack-A-Mon: Every run you will be given the opportunity to guess select static encounter's (Pokemon Tower Ghost, Cycling Road Snorlax, Other Snorlax, Zapdos, Articno, Moltres) typing. You may guess TWO types per encounter and if EITHER of the types are one the encounters' types you will earn a bonus point. HOWEVER, you will have the chance to "stack or fack". If you guess the first encounter correctly, but guess the second encounter incorrectly - you're "facked" and get no bonus points. If you guess correctly though, you will have earned 2 points and may continue to "stack or fack". You may choose to stop guessing at any time and "walk away" with the bonus points you've obtained. This will be a "best score" type bonus point and cannot be earned multiple times. (must have clip linked with score updates).|
+|Flutist - Collect all five colored flutes (Yellow, Blue, Red, Black, White) in a single run and earn 1 bonus point (must have clip linked with score updates).|
+|Linking Mons - Successfully execute an in-game trade to earn 1 bonus point. NOTE: In-game trades ask for the same pokemon as the vanilla game. You may NOT farm extra catches to obtain these Pokemon...they must be obtained legally (i.e. early game pivot option).
+|Which Switch - Complete Surge's trash puzzle first try and earn 1 bonus point! (must have clip linked with score updates).|
 
-> You can look at the "Magikarps" stats during the run
+|Sevii Island Champion's Quest|
+| :-----------------------: |
+|If you're so fortunate as conquer NATDEX Monomon, you may take on the post game quest in the Sevii Islands (NOTE: You need the NATDEX in order to access this, so just ensure you have it at the start of the game). Starting with the Rocket Grunts on 1 Island, you will treat the entire rest of the game as a dungeon. You must sell all TMs beforhad and may only teach TMs/Move Tutors that were not available prior to the post game. You will ned to MANUALLY track how many trainers you defeat; the competitor who defeats the most trainers will earn 3 bonus points|
 
 ## Awards
 
-Awards will be given to 1st, 2nd, and 3rd place finishers. The top 3 will be recognized in the MurphVerse and will earn badges in the MurphVerse discord.
+Awards will be given to 1st, 2nd, and 3rd place finishers from the awards pool: 50% of entry fees donated to the host BennyTots to be distributed as such: 50% to 1st place, 30% to second place, and 20% to 3rd place. Additionally, any donations from the "Pledge Page" in Murph's discord (must pay entry fee to be eligible).
