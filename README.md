@@ -1,4 +1,4 @@
-# T4-Firered-NATDEX-Monomon
+# T4 Firered NATDEX Monomon
 
 ### [Monomon](#Monomon) | [Tourney Details](#Tourney-Details) | [Tourney Points](#Point-Breakdown) | [Tourney Awards](#Awards) |
 
