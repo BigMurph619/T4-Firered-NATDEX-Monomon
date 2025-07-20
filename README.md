@@ -49,7 +49,7 @@ Your cumulative score is your 3 best runs combined. All points are worth 1 point
 | Sabrina                   |
 | Blaine                    |
 | Complete Sevii quest      |
-| Gio                       |
+| Gio (2)                   |
 | Pre-VR Rival              |
 | Lorelei                   |
 | Bruno                     |
@@ -57,7 +57,7 @@ Your cumulative score is your 3 best runs combined. All points are worth 1 point
 | Lance (2)                 |
 | Champ (3)                 |
 
-  42 Points available 
+  43 Points available 
 
 
 |        Bonus Points       |
