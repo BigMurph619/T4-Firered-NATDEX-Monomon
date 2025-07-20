@@ -39,12 +39,13 @@ Your cumulative score is your 3 best runs combined. All points are worth 1 point
 | Full Clear Rocket Hideout |
 | Tower Rival               |
 | Rescue Fuji               |
+| Tower Full Clear          |
 | Erika (2)                 |
 | Koga  (2)                 |
 | Dojo                      |
 | Silph Rival               |
 | Silph Gio                 |
-| Silph Full Clear          |
+| Silph Full Clear(2)       |
 | Sabrina                   |
 | Blaine                    |
 | Complete Sevii quest      |
@@ -62,14 +63,14 @@ Your cumulative score is your 3 best runs combined. All points are worth 1 point
 |        Bonus Points       |
 | :-----------------------: |
 | Any Pokemon that is 440 BST or lower will accumulate DOUBLE points. If the Pokemon is evolved into over 440 BST it will resume receiving standard points for the remainder of that run. All rules regarding abilities still apply i.e. (a 430 BST Pokemon may NOT have shell armor).|
-|Static-Stack-A-Mon: Every run you will be given the opportunity to guess select static encounter's (Pokemon Tower Ghost, Cycling Road Snorlax, Other Snorlax, Zapdos, Articuno, Moltres) typing. You may guess TWO types per encounter and if EITHER of the types are one of the encounters' types you will earn a bonus point. HOWEVER, you will have the chance to "stack or fack". If you guess the first encounter correctly, but guess the second encounter incorrectly - you're "facked" and get no bonus points. If you guess correctly though, you will have earned 2 points and may continue to "stack or fack". You may choose to stop guessing at any time and "walk away" with the bonus points you've obtained. This will be a "best score" type bonus point and cannot be earned multiple times. (must have clip linked with score updates).|
+|Static Fanatic - Whoever guesses the primary typing of the most (all runs combined) static encounters (Tower Ghost, Snorlaxes, Legendary Birds) will earn 1 bonus point (must have clip linked with score updates). |
 |Flutist - Collect all five colored flutes (Yellow, Blue, Red, Black, White) in a single run and earn 1 bonus point (must have clip linked with score updates).|
 |Linking Mons - Successfully execute an in-game trade to earn 1 bonus point. NOTE: In-game trades ask for the same pokemon as the vanilla game. You may NOT farm extra catches to obtain these Pokemon...they must be obtained legally (i.e. early game pivot option).
 |Which Switch - Complete Surge's trash puzzle first try and earn 1 bonus point! (must have clip linked with score updates).|
 
 |Sevii Island Champion's Quest|
 | :-----------------------: |
-|If you're so fortunate as to conquer NATDEX Monomon, you may take on the post game quest on the Sevii Islands (NOTE: You need the NATDEX in order to access this, so just ensure you have it at the start of the game). Starting with the Rocket Grunts on 1 Island, you will treat the entire rest of the game as a dungeon (no Pokecenters allowed). You must sell all TMs beforehand and may only teach TMs/Move Tutors that were not available prior to the post game. You will need to MANUALLY track how many trainers you defeat; the competitor who defeats the most trainers will earn 3 bonus points|
+|If you're so fortunate as to conquer NATDEX Monomon, you may take on the post game quest on the Sevii Islands (NOTE: You need the NATDEX in order to access this, so just ensure you have it at the start of the game). Starting with the Rocket Grunts on 1 Island, you will treat the entire rest of the game as a dungeon (no Pokecenters allowed). You must sell all TMs beforehand and may only teach TMs/Move Tutors that were not available prior to the post game. You may NOT enter cerulean cave before going back to the islands. You will need to MANUALLY track how many trainers you defeat; the competitor who defeats the most trainers will earn 3 bonus points|
 
 ## Awards
 
