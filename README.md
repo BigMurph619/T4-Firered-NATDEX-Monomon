@@ -14,7 +14,7 @@ T4 is hosted by [BennyTots](https://www.twitch.tv/bennytots). Dates: July 31st 1
 
 > You must be in the [MurphVerse discord](https://discord.gg/fNX4geCU) and all seeds must be live for the entire run and have a VOD available.
 
-Seed limit: 150. Cumulative score will be your 3 highest scoring runs combined.
+Seed limit: 100. Cumulative score will be your 3 highest scoring runs combined.
 
 Cost of entry: Free, unless you would like to be entered into the prize pool in which case you will need to donate 500 bits to BennyTots' channel.
 
