@@ -57,7 +57,7 @@ Your cumulative score is your 3 best runs combined. All points are worth 1 point
 | Lance (2)                 |
 | Champ (3)                 |
 
-  40 Points available 
+  42 Points available 
 
 
 |        Bonus Points       |
