@@ -67,7 +67,7 @@ Your cumulative score is your 3 best runs combined. All points are worth 1 point
 |Flutist - Collect all five colored flutes (Yellow, Blue, Red, Black, White) in a single run and earn 1 bonus point (must have clip linked with score updates).|
 |Linking Mons - Successfully execute an in-game trade to earn 1 bonus point. NOTE: In-game trades ask for the same pokemon as the vanilla game. You may NOT farm extra catches to obtain these Pokemon...they must be obtained legally (i.e. early game pivot option).
 |Which Switch - Complete Surge's trash puzzle first try and earn 1 bonus point! (must have clip linked with score updates).|
-|Go to Class - Send a clip to BennyTots or BigMurph619 of the reward you get for solving the below riddle to get a bonus point:<br>A chalky board stands by my side,<br>Where tips for Trainers often reside.<br>I have the ability to run away,<br>but with you as my trainer I may stay.|
+|Go to Class - Send a clip to BennyTots of the reward you get for solving the below riddle to get a bonus point:<br>A chalky board stands by my side,<br>Where tips for Trainers often reside.<br>I have the ability to run away,<br>but with you as my trainer I may stay.|
 
 
 |Sevii Island Champion's Quest|
